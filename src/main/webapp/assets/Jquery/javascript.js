@@ -47,6 +47,7 @@ $(document).ready(function () {
 
     });
 // ------
+// TASK 3
        $("#ul").children().each(function (index) {
 
             var size = 16 + index;
@@ -57,4 +58,6 @@ $(document).ready(function () {
             
 
     });
+// ------
+
 });
